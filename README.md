@@ -1,5 +1,5 @@
 - 👋 Hola, soy Aitor.
 - 👀 Mis intereses principales son los lenguajes de programación y la ciberseguridad.
-- 🌱 Estudiando DAM (Desarrollo de aplicaciones multiplataforma).
+- 🌱 Graduado en DAM (desarrollo de aplicaciones multiplataforma).
 - 💞️ Me encantaría colaborar...
 - 📫 Contáctame a través de casi cualquier red social ;)
