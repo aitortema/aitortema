@@ -1,5 +1,5 @@
-- 👋 Hola, soy Aitor.
-- 👀 Mis intereses principales son los lenguajes de programación y la ciberseguridad.
-- 🌱 Graduado en DAM (desarrollo de aplicaciones multiplataforma).
+- 👋 Hola, soy programador.
+- 👀 Titulado en DAM (Desarrollo de Aplicaciones Multiplataforma).
+- 🌱 Tras las prácticas me contrataron como Consultor Funcional de Microsoft Power Platform & Dynamics365.
 - 💞️ Me encantaría colaborar...
 - 📫 Contáctame a través de casi cualquier red social ;)
