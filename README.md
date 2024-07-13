@@ -1,4 +1,4 @@
-- 👋 Hola, soy programador. Titulado en DAM (Desarrollo de Aplicaciones Multiplataforma).
-- 👀 He trabajado como Consultor Funcional de Microsoft Power Platform & Dynamics365.
-- 💞️ Guardo mis programas a modo de cuaderno de bitácora. Hay C# y Java entre otros lenguajes.
-- 📫 Contáctame a través de casi cualquier red social ;)
+- 👋 Hola, me gusta programar.
+- 👀 Uso muchos IDEs, unos pocos lenguajes y comida.
+- 💞️ Guardo mis programas a modo de cuaderno de bitácora. Subo lo que puedo cuando quiero.
+- 📫 O lo que quiero cuando puedo, no lo sé.
