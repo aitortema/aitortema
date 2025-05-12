@@ -5,13 +5,9 @@
 
 ## 🎨 Paleta de colores
 
-| Nombre         | Color | Hex       |
-|----------------|:-----:|-----------|
-| Azul oscuro    | 🟦     | `#0a192f` |
-| Blanco grisáceo| ⚪     | `#f8f8f8` |
-| Verde agua     | 🟩     | `#00b48a` |
-| Verde claro    | 🟢     | `#00d1a0` |
-: #00d1a0; border: 1px solid #ccc;"></div></td>
-    <td><code>#00d1a0</code></td>
-  </tr>
-</table>
+<ul>
+  <li><span style="display:inline-block; width:16px; height:16px; background-color:#0a192f; border:1px solid #ccc;"></span> <code>#0a192f</code></li>
+  <li><span style="display:inline-block; width:16px; height:16px; background-color:#f8f8f8; border:1px solid #ccc;"></span> <code>#f8f8f8</code></li>
+  <li><span style="display:inline-block; width:16px; height:16px; background-color:#00b48a; border:1px solid #ccc;"></span> <code>#00b48a</code></li>
+  <li><span style="display:inline-block; width:16px; height:16px; background-color:#00d1a0; border:1px solid #ccc;"></span> <code>#00d1a0</code></li>
+</ul>
